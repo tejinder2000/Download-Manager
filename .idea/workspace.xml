@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15dd124f-cdcc-4d32-aab7-17a9a80bf45e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZPC19Bz7OMjzdyyiILciGgN4NV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="setup.py build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.index">
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mini Project (Downloader)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mini Project (Downloader)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mini Project (Downloader)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.index" />
+        <item itemvalue="Python.setup" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15dd124f-cdcc-4d32-aab7-17a9a80bf45e" name="Default Changelist" comment="" />
+      <created>1584731125303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584731125303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="63" width="810" height="680" key="#Inspections" timestamp="1584731213249">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="278" y="63" width="810" height="680" key="#Inspections/0.31.1366.737@0.31.1366.737" timestamp="1584731213249" />
+    <state x="141" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585082812402">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="141" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1584802824944" />
+    <state x="141" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.31.1366.737@0.31.1366.737" timestamp="1585082812402" />
+    <state x="366" y="138" width="634" height="531" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585053869990">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="366" y="138" width="634" height="531" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.31.1366.737@0.31.1366.737" timestamp="1585053869990" />
+    <state x="100" y="131" width="1166" height="545" key="DiffContextDialog" timestamp="1584821260476">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="100" y="131" width="1166" height="545" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1584821260476" />
+    <state x="420" y="136" width="525" height="472" key="EnvironmentVariablesDialog" timestamp="1585082808616">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="420" y="109" width="525" height="556" key="EnvironmentVariablesDialog/0.0.1366.768@0.0.1366.768" timestamp="1584802821939" />
+    <state x="420" y="136" width="525" height="472" key="EnvironmentVariablesDialog/0.31.1366.737@0.31.1366.737" timestamp="1585082808615" />
+    <state width="1320" height="378" key="GridCell.Tab.0.bottom" timestamp="1586432729045">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1310" height="255" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584880923761" />
+    <state width="1320" height="378" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1586432729045" />
+    <state width="1320" height="378" key="GridCell.Tab.0.center" timestamp="1586432729035">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1310" height="255" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584880923755" />
+    <state width="1320" height="378" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1586432729035" />
+    <state width="1320" height="378" key="GridCell.Tab.0.left" timestamp="1586432729026">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1310" height="255" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584880923755" />
+    <state width="1320" height="378" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1586432729026" />
+    <state width="1320" height="378" key="GridCell.Tab.0.right" timestamp="1586432729044">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1310" height="255" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584880923760" />
+    <state width="1320" height="378" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1586432729044" />
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom" timestamp="1584802935609">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584802935609" />
+    <state width="1320" height="230" key="GridCell.Tab.1.center" timestamp="1584802935608">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1584802935608" />
+    <state width="1320" height="230" key="GridCell.Tab.1.left" timestamp="1584802935608">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1584802935608" />
+    <state width="1320" height="230" key="GridCell.Tab.1.right" timestamp="1584802935608">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1584802935608" />
+    <state x="0" y="31" width="1022" height="733" key="SettingsEditor" timestamp="1585399841465">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="0" y="0" width="1022" height="733" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584800361251" />
+    <state x="0" y="31" width="1022" height="733" key="SettingsEditor/0.31.1366.737@0.31.1366.737" timestamp="1585399841465" />
+    <state x="343" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1586432020338">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="343" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584879058668" />
+    <state x="343" y="229" key="com.intellij.ide.util.TipDialog/0.31.1366.737@0.31.1366.737" timestamp="1586432020337" />
+    <state x="342" y="193" width="672" height="677" key="run.anything.popup" timestamp="1585578925883">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="342" y="169" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1584800190480" />
+    <state x="342" y="193" width="672" height="677" key="run.anything.popup/0.31.1366.737@0.31.1366.737" timestamp="1585578925883" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585579198175">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.31.1366.737@0.31.1366.737" timestamp="1585579198175" />
+  </component>
+</project>
